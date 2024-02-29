@@ -1,1 +1,4 @@
-
+->terraform init will initialize the plugins(kreuzwerker/docker).
+->terraform apply will create docker_image.image1 and docker_container.container1
+->it will make your image and container up and running.
+->terraform destroy will destroy both image and container.
